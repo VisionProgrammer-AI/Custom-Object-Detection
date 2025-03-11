@@ -1,0 +1,6 @@
+path: D:/AI Topics/Computer Vision/CompVision/Object Detection/data
+train: images/train
+val: images/val
+
+names:
+  0: Yarn Cone
