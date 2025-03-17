@@ -1,0 +1,1 @@
+This is the custom object detection project. You will be introduced with free image downloader and free annotation tool and all essential steps to train YOLOV12. Watch the video on YouTube: https://www.youtube.com/watch?v=UICjlUnQK5g&t=19s
